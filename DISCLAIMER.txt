@@ -1,0 +1,1 @@
+Academic demonstration only. Synthetic data only. Not for clinical use, diagnosis, triage, or treatment. No real patient data is included.
