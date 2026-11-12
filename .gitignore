@@ -13,3 +13,6 @@ data/predictions.db
 .DS_Store
 Thumbs.db
 .vscode/
+venv/
+env/
+.env
